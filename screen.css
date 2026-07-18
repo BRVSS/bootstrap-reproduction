@@ -2,3 +2,15 @@
 a.active {
     font-weight: bold;
 }
+
+/* .col{
+    margin:auto;
+} */
+
+main{
+    margin:1.5em;
+}
+
+image{
+    border-radius: 15px;
+}
