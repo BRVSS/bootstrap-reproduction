@@ -7,10 +7,14 @@ a.active {
     margin:auto;
 } */
 
+nav{
+    display: flex;
+}
+
 main{
     margin:1.5em;
 }
 
-image{
+img{
     border-radius: 15px;
 }
